@@ -1,2 +1,4 @@
-# .github
-This repository stores various defaults for the GitHub organization.
+<h1 align="center">
+    Understand. Observe. Decide.
+</h1>
+
